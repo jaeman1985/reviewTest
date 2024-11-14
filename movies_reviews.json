@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "reviews": [
+        {
+          "review_id": 101,
+          "review_text": "놀라운 경험! 최선을 다하는 놀란.",
+          "reviewer": "Alice"
+        },
+        {
+          "review_id": 102,
+          "review_text": "복잡하고 흥미로운 줄거리. 꼭 봐야 합니다!",
+          "reviewer": "Bob"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Matrix",
+      "reviews": [
+        {
+          "review_id": 201,
+          "review_text": "장르를 재정의한 공상과학 걸작입니다.",
+          "reviewer": "Charlie"
+        },
+        {
+          "review_id": 202,
+          "review_text": "철학적이고 액션으로 가득 차 있습니다. 놀라운 비주얼!",
+          "reviewer": "Dave"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Parasite",
+      "reviews": [
+        {
+          "review_id": 301,
+          "review_text": "훌륭하고 생각을 자극하는 영화. 걸작!",
+          "reviewer": "Eve"
+        },
+        {
+          "review_id": 302,
+          "review_text": "강력한 메시지와 함께 놀라운 스토리텔링입니다.",
+          "reviewer": "Frank"
+        }
+      ]
+    }
+  ]
+}
